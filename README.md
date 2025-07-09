@@ -4,7 +4,7 @@ Simple cross-platform Go program. Double click to run. Writes a text file to ../
 
 ## Requirements
 
-- Go 1.17+ installed
+- Go 1.21+ installed
 - Building on macOS or Linux (not on Windows)
 
 ## Build Instructions
