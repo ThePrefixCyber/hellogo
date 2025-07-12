@@ -1,6 +1,6 @@
 # hellogo
 
-Simple cross-platform Go program. Double click to run. Writes a text file to ../output relative to the directory of the compiled executable. Also makes a popup on Windows. 
+Cross-platform hello world program in go. Double click to run. Writes a text file to ../output relative to the directory of the compiled executable. Also makes a popup on Windows. 
 
 ## Requirements
 
